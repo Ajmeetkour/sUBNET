@@ -2,9 +2,9 @@
 ## Description
 This project includes several smart contracts:
 
-1. ERC20: Implements the ERC20 token standard with minting, burning, and transferring capabilities.
-2. Vault: Acts as an in-game bank where players can deposit and withdraw tokens.
-3. Marketplacehub: In this we can postoffers, removeoffers, and purchaseoffers.
+1. __ERC20:__ Implements the ERC20 token standard with minting, burning, and transferring capabilities.
+2. __Vault:__ Acts as an in-game bank where players can deposit and withdraw tokens.
+3. __Marketplacehub:__ In this we can postoffers, removeoffers, and purchaseoffers.
 
 ## EVM Subnet Configuration - Step by Step Guide
 Here's a overview of the steps you need to take:
